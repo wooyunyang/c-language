@@ -1,2 +1,1 @@
-# CProgrammingCodes
-《C程序设计语言》代码笔记。
+# C语言学习代码笔记
