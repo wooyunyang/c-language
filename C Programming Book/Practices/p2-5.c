@@ -20,6 +20,8 @@ int main()
     printf("%d\n", any("zhang", "dig"));
     printf("%d\n", any("zhang", "well"));
     printf("%d\n", any("", "well"));
+    
+    return 0;
 }
 
 

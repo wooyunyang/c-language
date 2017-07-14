@@ -9,4 +9,6 @@ int main()
 {
     char c = lower('E');
     printf("%c\n", c);
+    
+    return 0;
 }

@@ -15,4 +15,6 @@ int main(void)
 
     puts("> puts(str)");
     puts(str);
+    
+    return 0;
 }

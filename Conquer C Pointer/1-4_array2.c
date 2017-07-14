@@ -19,4 +19,6 @@ int main(void)
     }
     
     printf("[0]arr: %d\n", 0[arr]);
+    
+    return 0;
 }

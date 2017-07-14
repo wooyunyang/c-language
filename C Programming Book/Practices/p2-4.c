@@ -32,6 +32,8 @@ int main()
     printf("删除字符串：%s\n", s2);
     squeeze(s1, s2);
     printf("%s\n", s1);
+    
+    return 0;
 }
 
 

@@ -16,4 +16,6 @@ int main(void)
         printf("input[%s]", line);
     }
     puts("");
+    
+    return 0;
 }

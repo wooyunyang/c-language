@@ -12,4 +12,6 @@ int main(void)
 	printf("Smallest normal float: %e\n", FLT_MIN);
 	printf("float precision = %d digits\n", FLT_DIG);
 	printf("float epsilon = %e\n", FLT_EPSILON);
+    
+    return 0;
 }

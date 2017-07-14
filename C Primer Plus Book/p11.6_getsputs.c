@@ -8,4 +8,6 @@ int main(void)
 
     gets(line);
     printf("line: %s\n", line);
+    
+    return 0;
 }

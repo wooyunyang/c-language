@@ -38,6 +38,8 @@ int main()
     printf("%d\n", htoi("3"));
     printf("%d\n", htoi("4a"));
     printf("%d\n", htoi("5bc"));
+    
+    return 0;
 }
 
 

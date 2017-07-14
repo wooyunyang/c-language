@@ -16,4 +16,6 @@ int main(void)
     for (i=0; i<5; i++) {
         printf("&arr[%d]: %p\n", i, &arr[i]);
     }
+    
+    return 0;
 }
