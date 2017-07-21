@@ -1,0 +1,3 @@
+aaafromline1
+bbbfromline2
+last line
