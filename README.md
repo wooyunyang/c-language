@@ -11,11 +11,13 @@ The project contains Knowledge of C Programming Language.
 
 1. C Language Standard (@TODO)
 2. C Compiler (@TODO)
-3. [Keywords and Reserved Identifiers ](doc/en/3.md)
+3. [Keywords and Reserved Identifiers ](doc/en/103.md)
+4. [Keywords of Data Types](doc/en/104.md)
 
 ## 索引
 
 1. C语言标准 (@TODO)
 2. C编译器 (@TODO)
-3. [关键字和保留标识符](doc/cn/3.md)
-4. 数据类型 (@TODO)
+3. [关键字和保留标识符](doc/cn/103.md)
+4. [数据类型关键字](doc/cn/104.md)
+5. [基本数据类型](doc/cn/105.md)
